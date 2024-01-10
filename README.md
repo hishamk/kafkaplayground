@@ -1,6 +1,6 @@
-# Python 3 Kafka Playground
+# Python 3 Kafka Playground - Support repo for workshop on Kafka
 
-This uses venv, we may want to migrate it to use Anaconda/Conda.
+This uses venv.
 
 To set up the virtual environment initially, do:
 
